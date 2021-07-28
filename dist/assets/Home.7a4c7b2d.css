@@ -1,0 +1,1 @@
+.blinking{-webkit-animation:blinking .7s linear infinite;animation:blinking .7s linear infinite;-webkit-animation-fill-mode:both;animation-fill-mode:both}@-webkit-keyframes blinking{0%{opacity:1}50%{opacity:0}100%{opacity:1}}@keyframes blinking{0%{opacity:1}50%{opacity:0}100%{opacity:1}}
